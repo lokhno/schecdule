@@ -6,7 +6,7 @@ export function getLeftMenu() {
         { name: "Groups", url: "Groups" },
         { name: "Subjects", url: "Subjects" },
         { name: "Lecture Hall", url: "LectureHall" },
-Корректировка реализации
+
     ];
 }
 
